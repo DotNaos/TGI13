@@ -11,8 +11,12 @@
             "id": "c1181d8300a1f524",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik/KA 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "777c5ad7b3f02263",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik/KA 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatik/KA 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik/KA 1.md"
+              }
             }
           }
         ]
@@ -137,11 +154,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "ketcher:Create new structure": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ed265426027e6326",
+  "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "Chemie/6.1.md",
+    "Informatik/KA 1.md",
+    "Informatik",
+    "Chemie",
     "Spanisch",
     "Untitled.md"
   ]

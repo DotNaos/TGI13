@@ -1,4 +1,14 @@
 [
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax",
+  "ketcher",
+  "quick-latex",
+  "obsidian-latex-suite",
+  "obsidian-autocomplete-plugin",
+  "file-tree-alternative",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-advanced-slides",
+  "cm-editor-syntax-highlight-obsidian"
 ]
