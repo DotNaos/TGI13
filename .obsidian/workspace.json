@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/7.11.23.md",
+                "file": "Chemie/6.2.4.2 Eliminierung.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/7.11.23.md",
+                "file": "Chemie/6.2.4.2 Eliminierung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/7.11.23.md",
+                "file": "Chemie/6.2.4.2 Eliminierung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/7.11.23.md"
+                "file": "Chemie/6.2.4.2 Eliminierung.md"
               }
             }
           }
@@ -164,13 +164,13 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
-    "Ketcher/Ketcher 11-7-2023 10.29.55.ket",
     "Mathe/7.11.23.md",
+    "Chemie/6.2.4.2 Eliminierung.md",
+    "Ketcher/Ketcher 11-7-2023 10.29.55.ket",
     "Ketcher",
     "English/guns.md",
     "Mathe",
     "Informatik/KA 1.md",
-    "Chemie/6.1.md",
     "Informatik",
     "Chemie",
     "Spanisch",
