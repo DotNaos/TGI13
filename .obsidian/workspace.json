@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/guns.md",
+                "file": "Mathe/7.11.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/guns.md",
+                "file": "Mathe/7.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/guns.md",
+                "file": "Mathe/7.11.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/guns.md"
+                "file": "Mathe/7.11.23.md"
               }
             }
           }
@@ -165,6 +165,8 @@
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
     "English/guns.md",
+    "Mathe/7.11.23.md",
+    "Mathe",
     "Informatik/KA 1.md",
     "Chemie/6.1.md",
     "Informatik",
