@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "Fira Sans",
-  "textFontFamily": "Fira Code,Inter,CaskaydiaCove Nerd Font",
+  "textFontFamily": "DejaVu Math TeX Gyre,Inter,CaskaydiaCove Nerd Font",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
   "nativeMenus": true
 }
