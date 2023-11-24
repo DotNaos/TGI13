@@ -24,3 +24,4 @@ Für den Angriff, müssen wir sowohl das Opfer als auch den Router täuschen, in
 Die Informationen zum Router lassen wir uns hier ausgeben:
 
 ![[Pasted image 20231124142122.png]]
+Jetzt können wir den 
