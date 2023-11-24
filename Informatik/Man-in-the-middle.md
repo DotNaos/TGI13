@@ -19,3 +19,8 @@ Mithilfe von Schwachstellen im Signalling System 7 können sich Angreifer in die
 Zuerst verbindet sich der Angreifer mit einem Netzwerk, in dem sich das Opfer befindet. Dannach sucht er die IP-Adresse des Opfers im Netzwerk. Hier werden alle IPs Angezeigt.
 ![[Pasted image 20231124141339.png]]
 
+Für den Angriff, müssen wir sowohl das Opfer als auch den Router täuschen, indem wir dem Router sagen, dass die MAC-Adresse des Opfers unsere MAC-Adresse ist und dem Opfer sagen, dass die MAC-Adresse des Routers unsere MAC-Adresse ist.
+
+Die Informationen zum Router lassen wir uns hier ausgeben:
+
+![[Pasted image 20231124142122.png]]
