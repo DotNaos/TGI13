@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanisch/S.131.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "decba275d06c667f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spanisch/S.131.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spanisch/S.131.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spanisch/S.131.md"
+                "file": "Informatik/Man-in-the-middle.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
-    "Chemie/6.2.4.2 Eliminierung.md",
     "Spanisch/S.131.md",
+    "Informatik/Man-in-the-middle.md",
+    "Chemie/6.2.4.2 Eliminierung.md",
     "Spanisch",
     "Mathe/7.11.23.md",
     "Ketcher/Ketcher 11-7-2023 10.29.55.ket",
