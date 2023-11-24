@@ -4,7 +4,7 @@ Ein Man-in-the-Middle-Angriff (MITM) ist eine Form des Cyberangriffs, bei der si
 
 Bei einem MITM-Angriff schaltet sich der Angreifer in die Verbindung zwischen zwei Benutzern oder Systemen ein, ohne dass dies von den eigentlichen Kommunikationsparteien bemerkt wird. Auf diese Weise ist es dem Angreifer möglich, vertrauliche Informationen abzufangen oder sogar eigene Inhalte einzuschleusen bzw. die Kommunikation zu manipulieren.
 
-![https://networksimulationtools.com/wp-content/uploads/2020/12/Man-In-The-Middle-Attack-Network-Projects.png]
+![](https://networksimulationtools.com/wp-content/uploads/2020/12/Man-In-The-Middle-Attack-Network-Projects.png)
 
 ## Angriffsszenerien
 ---
@@ -16,4 +16,6 @@ Durch Manipulation von Border Gateway Protocol (BGP) Announcements lenkt der Ang
 ### SS7-Attacken
 Mithilfe von Schwachstellen im Signalling System 7 können sich Angreifer in die mobile Kommunikation einklinken und Anrufe, SMS etc. mitlesen oder manipulieren.
 ### Beispiel: Öffentliches Wifi (Bodenseekreis)
+Zuerst verbindet sich der Angreifer mit einem Netzwerk, in dem sich das Opfer befindet. Dannach sucht er die IP-Adresse des Opfers im Netzwerk. Hier werden alle IPs Angezeigt.
+![[Pasted image 20231124141339.png]]
 
