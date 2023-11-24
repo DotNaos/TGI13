@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Fira Sans",
   "textFontFamily": "DejaVu Math TeX Gyre,Inter,CaskaydiaCove Nerd Font",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSize": 17
 }
