@@ -24,7 +24,7 @@ Für den Angriff, müssen wir sowohl das Opfer als auch den Router täuschen, in
 Die Informationen zum Router lassen wir uns hier ausgeben:
 
 ![[Pasted image 20231124142122.png]]
-Jetzt können wir unser Opfer als target des ARP-Spoof setzen und die Datenanfragen mitlesen.
+Jetzt können wir unser Opfer als target des ARP-Spoof setzen und die Datenanfragen mitlesen. Wir sind damit der Man-in-the-middle.
 ![[Pasted image 20231126210112.png]]
 Hier sehen wir, dass das Opfer an
 https://m.youtube.com
