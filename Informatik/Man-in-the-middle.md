@@ -24,4 +24,6 @@ Für den Angriff, müssen wir sowohl das Opfer als auch den Router täuschen, in
 Die Informationen zum Router lassen wir uns hier ausgeben:
 
 ![[Pasted image 20231124142122.png]]
-Jetzt können wir den 
+Jetzt können wir unser Opfer als target des ARP-Spoof setzen und die Datenanfragen mitlesen.
+![[Pasted image 20231126210112.png]]
+Hier sehen wir, dass de

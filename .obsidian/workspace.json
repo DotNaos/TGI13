@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Fragen.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Fragen.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Fragen.md",
+                "file": "Informatik/Man-in-the-middle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Fragen.md"
+                "file": "Informatik/Man-in-the-middle.md"
               }
             }
           }
@@ -164,9 +164,11 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "Pasted image 20231126210112.png",
+    "Pasted image 20231126205941.png",
+    "Informatik/Fragen.md",
     "Informatik/Man-in-the-middle.md",
     "Informatik/KA 1.md",
-    "Informatik/Fragen.md",
     "Pasted image 20231124142122.png",
     "Pasted image 20231124141339.png",
     "Spanisch/S.131.md",
