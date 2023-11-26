@@ -1,3 +1,5 @@
+
+# Man-in-the-middle Angriff
 ## Grundsätzliches
 ---
 Ein Man-in-the-Middle-Angriff (MITM) ist eine Form des Cyberangriffs, bei der sich der Angreifer heimlich zwischen zwei kommunizierende Parteien positioniert, um deren Kommunikation mitzulesen und/oder zu manipulieren.
@@ -31,3 +33,10 @@ https://m.youtube.com
 https://apple.de
 ... 
 Anfragen sendet.
+
+Nun können wir einen DNS-Spoofer starten, der Anfragen an eine Domain, an eine andere Seite umleitet.
+
+Wenn das Opfer jetzt auf Amazon.com gehen will, kann die Anfrage an eine Phising Seite redirected werden.
+
+Will man sich gegen so einen Angriff in einem öffentlichen Netzwerk schützen, hilft ein VPN.  
+
