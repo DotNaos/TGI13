@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik/Man-in-the-middle.md",
+                "file": "Chemie/Laborjournal.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik/Man-in-the-middle.md",
+                "file": "Chemie/Laborjournal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik/Man-in-the-middle.md",
+                "file": "Chemie/Laborjournal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik/Man-in-the-middle.md"
+                "file": "Chemie/Laborjournal.md"
               }
             }
           }
@@ -164,10 +164,11 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "Informatik/Man-in-the-middle.md",
+    "Chemie/Laborjournal.md",
     "Pasted image 20231126210112.png",
     "Pasted image 20231126205941.png",
     "Informatik/Fragen.md",
-    "Informatik/Man-in-the-middle.md",
     "Informatik/KA 1.md",
     "Pasted image 20231124142122.png",
     "Pasted image 20231124141339.png",
