@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemie/Laborjournal.md",
+                "file": "Chemie/Fette.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Laborjournal.md",
+                "file": "Chemie/Fette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Laborjournal.md",
+                "file": "Chemie/Fette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Laborjournal.md"
+                "file": "Chemie/Fette.md"
               }
             }
           }
@@ -164,9 +164,10 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "Chemie/Laborjournal.md",
+    "Chemie/Fette.md",
     "test.txt",
     "Informatik/Man-in-the-middle.md",
-    "Chemie/Laborjournal.md",
     "Pasted image 20231126210112.png",
     "Pasted image 20231126205941.png",
     "Informatik/Fragen.md",
