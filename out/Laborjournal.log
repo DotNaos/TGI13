@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.7)  12 DEC 2023 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.7)  12 DEC 2023 18:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -97,7 +97,7 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count271
 \l__pdf_internal_box=\box53
 )
-No file Laborjournal.aux.
+(/home/oli/TGI13/out/Laborjournal.aux)
 \openout1 = `Laborjournal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -114,19 +114,34 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
+./Laborjournal.tex:13: Undefined control sequence.
+l.13 \header
+            {Laborjournal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (/home/oli/TGI13/out/Laborjournal.aux) ) 
 Here is how much of TeX's memory you used:
- 1144 strings out of 477985
- 17674 string characters out of 5840058
+ 1148 strings out of 477985
+ 17792 string characters out of 5840058
  1849388 words of memory out of 5000000
  21412 multiletter control sequences out of 15000+600000
  512587 words of font info for 33 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 56i,1n,62p,208b,36s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-No pages of output.
+ 56i,5n,62p,208b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb>
+Output written on /home/oli/TGI13/out/Laborjournal.pdf (1 page, 12861 bytes).
 PDF statistics:
- 0 PDF objects out of 1000 (max. 8388607)
+ 13 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
