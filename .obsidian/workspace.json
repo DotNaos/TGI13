@@ -164,6 +164,10 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "out/Laborjournal.aux",
+    "out/Laborjournal.synctex(busy)",
+    "out/Laborjournal.log",
+    "out",
     "Chemie/Laborjournal.tex~",
     "Chemie/Laborjournal.tex",
     "Chemie/Laborjournal.md",
@@ -184,8 +188,6 @@
     "Ketcher",
     "English/guns.md",
     "Mathe",
-    "Informatik",
-    "Chemie",
     "Untitled.md"
   ]
 }
