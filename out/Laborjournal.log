@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.12.16)  17 DEC 2023 08:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.11.7)  17 DEC 2023 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -214,28 +214,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
-/enc/dvips/cm-super/cm-super-ts1.enc}] [2] [3] (/home/oli/TGI13/out/Laborjourna
-l.aux)
-Package rerunfilecheck Info: File `Laborjournal.out' has not changed.
-(rerunfilecheck)             Checksum: CF043C3A62A010912326BF4402B0EFF7;1566.
+/enc/dvips/cm-super/cm-super-ts1.enc}] [2]
+./Laborjournal.tex:81: Missing $ inserted.
+<inserted text> 
+                $
+l.81     Verseifungszahl_
+                         {Rapsöl} = 0,1354
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 81.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 81.
+
+LaTeX Warning: Command \" invalid in math mode on input line 81.
+
+./Laborjournal.tex:81: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.81     Verseifungszahl_{Rapsö
+                                l} = 0,1354
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./Laborjournal.tex:90: Missing $ inserted.
+<inserted text> 
+                $
+l.90 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+\OT1/cmr/m/n/10 Verseifungszahl$[] = 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1354
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+\OML/cmm/m/it/10 Verseifungszahl[] \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; \OT1/c
+mr/m/n/10 1830
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+\OML/cmm/m/it/10 m[] \OT1/cmr/m/n/10 = 13\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 54\
+OML/cmm/m/it/10 g \OT1/cmr/m/n/10 + 18\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 30\OML
+/cmm/m/it/10 g
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--90
+\OML/cmm/m/it/10 m[] \OT1/cmr/m/n/10 = 31\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 84\
+OML/cmm/m/it/10 g
+ []
+
+[3] (/home/oli/TGI13/out/Laborjournal.aux)
+
+Package rerunfilecheck Warning: File `Laborjournal.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Laborjournal.out':
+(rerunfilecheck)             Before: 3790CBCDE72AEB6B1A3C7CC8FF051CA1;1674
+(rerunfilecheck)             After:  226D009D585B6F38D07584BF67C766B5;1800.
  ) 
 Here is how much of TeX's memory you used:
- 7357 strings out of 477985
- 117229 string characters out of 5840057
+ 7362 strings out of 477985
+ 117301 string characters out of 5840058
  1859388 words of memory out of 5000000
- 27493 multiletter control sequences out of 15000+600000
+ 27496 multiletter control sequences out of 15000+600000
  516569 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,7n,76p,244b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,76p,238b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm10
-00.pfb>
-Output written on /home/oli/TGI13/out/Laborjournal.pdf (3 pages, 73579 bytes).
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1000.pfb>
+Output written on /home/oli/TGI13/out/Laborjournal.pdf (3 pages, 115917 bytes).
+
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
