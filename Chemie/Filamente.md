@@ -54,7 +54,9 @@
 - https://www.simplify3d.com/resources/materials-guide/properties-table/
 - https://prusament.com/de/chemische-bestaendigkeit-von-materialien-fuer-den-3d-druck/
 
-
+### PLA-Synthese
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7662581/
+- https://de.serlo.org/chemie/25361/optische-aktivit%C3%A4t
 ## Bilder
 
 ### Wet Filament
