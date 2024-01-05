@@ -176,7 +176,7 @@
     Zudem ist es absolut nicht chemisch beständig und zersetzt sich bei UV-Strahlung.
     Daher eignet es sich für Dekorationen, oder für Prototypen, die nicht lange halten müssen oder für Teile, die nicht mechanisch belastet werden.
     Etwas beständiger ist PETG. Es ist etwas flexibler als PLA und hat eine höhere Schmelztemperatur.
-    Es ist zudem stabiler und chemisch beständiger als PLA, jedoch nicht UV-beständig.
+    PETG ist zudem stabiler und chemisch beständiger als PLA, jedoch nicht UV-beständig.
     Es eignet sich für mechanische Teile mit geringer Belastung oder Möbel im Innenbereich.
     ABS ist noch stabiler und steifer als PETG, es kann auch höheren Temperaturen standhalten, jedoch muss es in einem beheizten Druckraum gedruckt werden, da es sonst zu Warping kommt.
     Abgesehen vom 3D-Druck wird es im Spritzguss oft verwendet z.B. Legosteine, Playmobil oder auch Auto- und Motorradteile.
@@ -214,67 +214,6 @@
 
     \newpage
 
-    \section{PLA herstellung}
-
-    Biologisch Abbaubar.
-    Hergestellt aus Zucker (Fermentation).
-    aus Maisstärke, weizen, Stroh, Hirse
-    Zerfällt zy Wasser und CO2 durch Mikroorganismen.
-
-    170-230°C Verarbeitungstemperatur
-
-    Biokompatibilität, biologische Abbaubarkeit, Glanz und Transparent, antibakteriell, öl-wasserbeständig
-    Verpackungsmaterial, Vliesstoffe, Kleidung, medizinische Anwendungen (Fäden, Implantate, OP-Material),
-
-    lactic acid (Milchsäure)
-    1881 aus fermentierter Milch  oder aus Zucker durch Bakterien
-
-    D-laic acid aus Tiermuskeln
-
-    Fermentation:
-    3-5 Tage, niedriger pH (5), wenig Sauerstoff, 40°C
-    Wird mit der Zeit giftig desto mehr Milchsäure sich bildet.
-    > Ammoniak und Natriumhydroxid reinigen
-
-    \begin{figure}[H]
-        \centering
-        \subfloat[\centering L-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]CH_{3})-[:30](=[2]O)(-[:-30]OH)}}%
-        \qquad
-        \subfloat[\centering D-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]H)-[:30](=[2]O)(-[:-30]OH)}}%
-    \end{figure}
-
-    PLA-Polymerisation:
-    Lacitc acid ist chiral = Asymmetrisches Molekül
-    D- und L-Form
-    P-L-LA: Entzündend, da langsamer Abbau im Körper
-    P-D-LA: schneller Abbau im Körper
-    P-D-L-LA: Bestes von beiden
-
-    2-Schritt Synthese
-    1. Dehydratisierungkondensation von Hydroxylgruppen und Carboxylgruppen in äquimolaren Konzentrationen
-    => niedermolekulares PLA (Polymilchsäure)
-
-    2. Kopplungsmittel und Veresterungsbeschleuniger hinzufügen
-    => hochmolekulares PLA (Längere Ketten)
-
-    -> Für bessere Reinheit Triphosgen
-        -> Teurer und gefährlich
-
-    Azeotropische Dehydratisierungskondensation
-    1. Milchsäure destillieren bei 130°C und niedrigem Druck für 2-3h
-    2. Katalysator und Diphenylether zur Reaktion hinzufügen.
-    3. In Molekularsieb geben und für 30-40h bei 130°C in Behälter zurückführen.
-    4. Polymer zur reinigung abtrennen, gelöst oder ausgefällt. Dannach höherer Siedepunkt des Lösungsmittel weil weniger Wasser -> schnellere Polymerisation
-
-    Zinnverbindungen als Katalysator
-
-    \begin{figure}[H]
-        \centering
-        \includegraphics{img/PLA_synthese}
-    \end{figure}
-
-    ---
-
     \subsection{Introduction}
     PLA bzw. Polymilchsäure ist ein Biopolymer, das aus erneuerbaren Ressourcen wie Weizen, Stroh, Mais und Hirse gewonnen wird.
     Es ist umweltfreundlich, da es von Mikroben zu Wasser und Kohlendioxid abgebaut werden kann.
@@ -288,94 +227,80 @@
     Ist ein Molekül optisch aktiv, bedeutet das, dass es zwei optische Isomere gibt, die sich zueinander verhalten wie Bild und Spiegelbild.
     Das bedeutet, es gibt zwei optische Isomere, L-Milchsäure und D-Milchsäure.
     Einfach gesagt, dreht L-Milchsäure polarisiertes Licht nach links und D-Milchsäure nach rechts.
-    L-Milchsäure wird aus Tiermuskeln gewonnen, während D-Milchsäure durch Fermentation gewonnen wird.
+    D-Milchsäure wird aus Tiermuskeln gewonnen, während L-Milchsäure durch Fermentation gewonnen wird.
 
+    \begin{figure}[H]
+        \centering
+        \subfloat[\centering L-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]CH_{3})-[:30](=[2]O)(-[:-30]OH)}}%
+        \qquad
+        \subfloat[\centering D-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]H)-[:30](=[2]O)(-[:-30]OH)}}%
+    \end{figure}
 
-
-    Als einfachste Hydroxysäure enthält das Molekül ein asymmetrisches Kohlenstoffatom, das optisch aktiv ist, so dass es zwei optische Isomere, L-Milchsäure und D-Milchsäure, gibt, wie in Abbildung 1 gezeigt [21,22].
-    Milchsäure, die aus Tiermuskeln gewonnen wird, ist dextrorotatorische Milchsäure, während die andere, durch Fermentation gewonnene Milchsäure levogyre Milchsäure ist.
-    Anfangs wurde kommerzielle Milchsäure hauptsächlich durch die Fermentation von Zuckern durch Bakterien gewonnen [23].
-    Für die Milchsäurefermentation verwendete Zucker umfassen Stärke, Glukose, Laktose und Maltose, die durch Mais und Kartoffeln produziert werden.
-    Die Fermentation wird typischerweise 3-5 Tage lang bei niedrigem pH-Wert (ca.\ 5,0) und niedrigem Sauerstoffgehalt bei einer Temperatur von etwa 40 °C durchgeführt [24].
-    Allerdings erzeugt dieses Verfahren einen gewissen Grad an Toxizität, da sich die Konzentration der fermentierten Milchsäure erhöht und die Reaktion weitergeht.
-    Um hochreine Milchsäure zu erhalten und die Ausbeuteeffizienz der Milchsäure zu verbessern, stellt auch die Reinigung ein großes Problem dar [25].
-    Anfangs war die typische Reinigungsmethode, Kalziumhydroxid oder Kalziumkarbonat zur Neutralisation der Säure in den Gärungsbrüden hinzuzufügen.
-    Das resultierende Kalziumlaktat konnte verdampft, kristallisiert und angesäuert werden, um weitere Rohmilchsäure und unlösliche Kalziumsulfat (Gips) zu erhalten.
-    Milchsäure, die in Lebensmitteln oder Medikamenten verwendet wird, muss oft weiter aufgereinigt werden, um einen höheren Milchsäuregrad zu erhalten.
-    Spätere Studien zeigten, dass sie dann mit recyceltem Ammoniak oder Natriumhydroxid neutralisiert werden kann.
-    Anschließend wurden Ultrafiltration, Färbung und Elektrodialyse als neue Verfahren für die kostengünstige Produktion von Milchsäure entwickelt [26].
-
-    Obwohl chemische Methoden in der Lage sind, die Großproduktion von Milchsäure kontinuierlich durchzuführen, und das resultierende Produkt von der US-Arzneimittelbehörde FDA zugelassen wurde, sind die Ausgangsstoffe im Allgemeinen giftig.
-    Sie entsprechen nicht den Standards der grünen Chemie.
-    Einige neuere Studien zeigten, dass durch Hinzufügen von Bakterien und substratabbauenden Enzymen zur gleichzeitigen Saccharifizierung und Fermentation Stärke oder cellulosische Biomasse in Zucker umgewandelt und gleichzeitig in Milchsäure umgewandelt werden kann; dieser Prozess kann die oben genannten traditionellen Fermentationsschritte ersetzen [28,29].
-    Dieser Prozess reduziert Kosten und verbessert die Effizienz.
+    Die Fermentation wird durch Bakterien durchgeführt, die Zucker in Milchsäure umwandeln, welcher von Mais oder Kartoffeln gewonnen wird.
+    Dies umfasst die Fermentation von Stärke, Glukose, Laktose und Maltose.
+    Der Ablauf der Fermentation dauert in der Regel 3-5 Tage und wird bei niedrigem pH-Wert (5.0), niedrigem Sauerstoffgehalt und einer Temperatur von etwa 40°C durchgeführt.
+    Jedoch wird die Milchsäure mit der Zeit giftig, da sich die Konzentration der Milchsäure erhöht.
+    Um die Toxizität zu reduzieren, wird Ammoniak oder Natriumhydroxid hinzugefügt, um die Milchsäure zu neutralisieren.
+    Etwas neuere Methoden zur Herstellung von Milchsäure umfassen die Ultrafiltration, Färbung und Elektrodialyse.
+    Auch wenn diese Verfahren von der FDA zugelassen wurden, sind die Ausgangsstoffe im Allgemeinen giftig.
 
     \subsection{Polymilchsäure}
 
-    Da Milchsäure ein chirales Molekül mit D- und L-Isomeren ist, bilden sich drei Formen von Polymilchsäure: Poly-L-Milchsäure (PLLA), Poly-D-Milchsäure (PDLA) und Poly-D,L-Milchsäure (PDLLA). In Bezug auf die optische Aktivität gibt es zwei Zusammensetzungen – L- und D-Enantiomere –, so dass Polymilchsäure in drei Formen (α, β und γ) kristallisiert werden kann [30,31,32].
-    1932 synthetisierte Carothers (DuPont) Polymilchsäureprodukte mit niedrigem Molekulargewicht.
-    Aufgrund der hohen Herstellungskosten und der schlechten Produktstabilität galt diese Synthese jedoch nicht als Erfolg [33].
-    1954 produzierte DuPont eine Polymilchsäure mit höherem Molekulargewicht und meldete ein Patent an, um in den Handel einzusteigen.
-    Die Forschung an Polymeren erregte in der Gesellschaft große Aufmerksamkeit.
-    Mit den Fortschritten in der Medizin und im öffentlichen Gesundheitswesen begann Polymilchsäure in den 1960er Jahren für chirurgische Nähte und Knochenimplantate verwendet zu werden.
-    Heutzutage wurde PLA-Harz von der FDA und den europäischen Aufsichtsbehörden für den Einsatz in Lebensmittel- und Arzneistofffreisetzungssystemen zugelassen [12,34].
-    Dies hat die Menschen auch dazu gebracht zu erkennen, dass PLLA zwar einige Vorteile hat, aber auch einige Nachteile.
-    Zum Beispiel kann es aufgrund seiner hohen Kristallinität und langsamen Abbaurate eine Entzündungsreaktion im Körper auslösen.
-    Glücklicherweise baut sich D-Milchsäure schneller ab.
-    Wenn L-Milchsäure und D,L-Milchsäure-Monomere verwendet werden, um PLLA zu synthetisieren, werden die oben genannten Probleme vermieden [35,36].
+    Will man nun aus der Milchsäure das PLA herstellen so muss diese polymerisiert werden, man erhält dann die Polymilchsäure.
+    Wie bereits erwähnt, ist Milchsäure ein chirales Molekül mit zwei optischen Isomeren, L- und D-Milchsäure.
+    Aus diesen beiden Isomeren können drei Formen von Polymilchsäure synthetisiert werden: Poly-L-Milchsäure (PLLA), Poly-D-Milchsäure (PDLA) und Poly-D,L-Milchsäure (PDLLA).
+    Das erste synthetisierte PLA war PLLA, das aus L-Milchsäure hergestellt wurde.
+    Es wurde jedoch festgestellt, dass PLLA aufgrund seiner hohen Kristallinität und langsamen Abbaurate eine Entzündungsreaktion im Körper auslösen kann.
+    Die zweite Form PDLA dagegen, wird schneller abgebaut.
+    Verwendet man nun die Dritte Form PDLLA, so kann man diese Probleme vermeiden und dennoch die Vorteile von PLLA nutzen.
+    Z.B. ist PLLA stabiler als PDLA. \\ \\
+    Nun gibt es drei Methoden, PLA mit einem Molekulargewicht größer als 10.000 g/mol herzustellen:
+    \begin{enumerate}
+        \item Direkte Kondensationspolymerisation
+        \item Azeotrope Dehydratisierungskondensation
+        \item Lactid-Ringöffnungspolymerisation
+    \end{enumerate}
 
-    Drei Methoden zur Synthese des Polymers PLA (Mw > 10.000) wurden berichtet: (a) direkte Kondensationspolymerisation; (b) azeotrope Dehydratisierungskondensation und (c) Lactid-Ringöffnungspolymerisation, wie in Abbildung 2 dargestellt.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=10cm]{img/Polymerisation}
+        \caption*{Polymerisation von Milchsäure zu Polymilchsäure}
+    \end{figure}
 
-    Obwohl die Kosten der Kondensationspolymerisationsmethode niedrig sind, kann sie nicht direkt Polymer-PLA synthetisieren.
-    Vielmehr entspricht ein Teil der Kosten dem Kupplungsmittel und Beschleuniger, die im Syntheseprozess verwendet werden.
-    Der Syntheseschritt ist in zwei Schritte unterteilt [37,38,39].
-    Der erste Schritt ist die Dehydratisierungskondensation von Hydroxyl- und Carboxygruppen in äquimolaren Konzentrationen zur Herstellung von niedermolekularer Polymilchsäure.
-    Anschließend müssen Kupplungsmittel und Veresterungsadjuvantien hinzugefügt werden.
-    Ihre Zugabe kann die PLA modifizieren und die Kette verstärken helfen.
-    Im nachfolgenden Produktionsprozess konnte jedoch aufgrund der effizienten Wasserentfernung der Siedepunkt des Lösungsmittels erhöht und damit die Polymerisationsrate erhöht werden.
-    Nach dem Test einer Vielzahl von Katalysatoren stellte sich heraus, dass Zinnverbindungen eine höhere katalytische Effizienz aufweisen.
-    Darüber hinaus behindern die Verunreinigungen die Synthese in gewissem Umfang.
-    In der anschließenden Industrieforschung wurde gezeigt, dass es möglich ist, den Katalysator zu einem großen Teil zu entfernen, ohne das Polymer zu zersetzen.
-    Die Toxizität und Nichtabbaubarkeit des restlichen Katalysators kann jedoch irreparable Schäden am menschlichen Körper verursachen, sodass er nicht im medizinischen Bereich angewendet werden kann.
+    \subsection{Kondensationspolymerisation}
+    Durch die Kondensationspolymerisation kann leicht und günstig niedermoelkulares PLA hergestellt werden.
+    Dies geschieht durch die Kondensation von Hydroxyl- und Carboxylgruppen in äquimolaren Konzentrationen.
+    Im zweiten Schritt werden Kupplungsmittel und Veresterungsadjuvantien hinzugefügt, die die PLA modifizieren und die Kette verstärken.
+    Dieser Schritt ist deutlich kostenintensiver, als der Erste.
+    Im nachfolgenden Produktionsprozess war es möglich die Polymerisation durch eine effizientere Wasserentfernung zu beschleunigen.
+    Zinnverbindungen haben sich als effektive Katalysatoren erwiesen, jedoch müssen diese nach der Polymerisation entfernt werden, da sie giftig sind.
+    Dieser Katalysator kann dafür nicht im medizinischen Bereich eingesetzt werden.
 
     \subsection{Ringöffnungspolymerisation}
+    Die Ringöffnungspolymerisation wird im industriellen Maßstab zur Herstellung von hochmolekularem PLA verwendet.
+    Um eines der drei Isomere mit hohem Molekulargewicht zu erhalten, wird zunächst die Milchsäure bei 115-179°C kondensiert, das Kondenswasser und Mesomilchsäure entfernt und anschließend umkristallisiert.
+    In Industrieanlagen wird zwar dieses Schema verwendet, jedoch in unterschiedlichen Reaktoren und mit unterschiedlichen Reinigungsmethoden.
+    Zum Beispiel ein Verfahren mit reduziertem Druck-Rückfluss, um Restwasser, Milchsäure, Oligomere und teilweises Lactid zu entfernen.
+    Andere Methoden verwenden einen Mehrstufen-Schmelzrekristallisator oder Inertgas, um Lactid zu entfernen, umzukristallisieren und zu reinigen.
+    Es können auch schwach alkalische Wasser-/Lösungsmittel-Systeme und Gasphasen-Umkristallisation verwendet werden, um Lactid zu extrahieren. \\ \\
 
-    Die Ringöffnungspolymerisation von Lactid ist eine der Methoden für die industrielle Produktion von hochmolekularem PLA. Lactid hat drei Stereokonfigurationen - l-Lactid, Mesolactid und d-Lactid - wie in Abbildung 3 gezeigt [42].
-    Als zyklisches Dimer kann es durch lösungsmittelfreie Dehydratisierung unter milden Bedingungen gebildet werden.
-    Kommerziell realisierbare Methoden zur Gewinnung und Reinigung von Lactid umfassen Schritte wie die Kondensation von Milchsäure bei 115-179 °C, die Entfernung des Kondenswassers und die Entfernung der Mesomilchsäure und des niedermolekularen Polymers durch Umkristallisation, um reines l- oder d,l-Lactid mit hohem Molekulargewicht zu erhalten [9,43,44].
-    Das industrielle Herstellungsverfahren für Lactid ist das gleiche wie das oben erwähnte Schema, aber in unterschiedlichen Reaktoren, wobei Vorpolymere mit niedrigem Molekulargewicht erzeugt werden, und die endgültige Reinigungsmethode ist eine andere.
-    Zum Beispiel verwendet Cargill Inc.
-    ein Verfahren mit vermindertem Druck-Rückfluss, um Restwasser, Milchsäure, Oligomere und teilweises Lactid zu entfernen [45].
-    Nemphos änderte den Reinigungsschritt und verwendete einen Mehrstufen-Schmelzrekristallisator, um LA und niedermolekulares Polymer zu entfernen.
-    Bhatia und Kollegen verwendeten Inertgas, um Lactid zu entfernen, umzukristallisieren und zu reinigen.
-    Andere Methoden umfassen die Verwendung von Lactid zur Gasphasen-Umkristallisation, um die Ausbeute zu erhöhen, und schwach alkalische Wasser-/Lösungsmittelsysteme, um Lactid zu extrahieren.
-    Bei dem oben beschriebenen Verfahren wird nach der Entfernung von Verunreinigungen im Allgemeinen hochreines Lactid erhalten.
+    Je nach Katalysator kann eines der folgenden drei Polymerisationsmechanismen verwendet werden:
 
-    Nachdem hochreines Lactid erhalten wurde, kann die Ringöffnungspolymerisation von Lactid je nach Katalysator einem von drei Mechanismen folgen: Kationisch, anionisch und Koordinations-/Insertionsmechanismus.
-    Kationische Initiatoren können im Allgemeinen in protische Säuren, Lewis-Säuren und alkylierende bzw.
-    acylierende Reagenzien unterteilt werden.
-    Kricheldorf und seine Kollegen fanden heraus, dass Triflsäure und Methyltriflat unter vielen kationischen Initiatoren die Polymerisation von Lactid wirksam induzieren können.
-    Die Wahl verschiedener Anion-Induktoren bewirkt eine Deprotonierung, was zu einer inkonsistenten Polymerisation und Racemisierung führt, was wiederum zu Polymeren mit unterschiedlichen Molekulargewichten führt [46].
-    In Anbetracht, dass Metallionen Toxizitätsprobleme verursachen können, wird die Verwendung von Butyllithium oder Kronenether-Initiatoren nicht empfohlen.
-    Die Verwendung von primären Alkoxiden, 6-Valerolacton oder Polyethylenglykol kann eindeutig definierte Polymere erzeugen.
-    Die beiden oben genannten Methoden haben eine hohe Reaktivität und neigen gewöhnlich während des Lösungsmittelreaktionsprozesses zu Racemisierung und Transesterifizierung, was zu Verunreinigungen führt.
-    Die Verwendung von Metallcarboxylaten, -oxiden und -alkoxiden mit geringerer Aktivität zur Herstellung von Polylactid mit geringer Toxizität und wenigen Verunreinigungen wurde in kommerziellen Produktionsanwendungen ausführlich untersucht.
-    Studien haben gezeigt, dass die Verwendung von Zinn (II) und Zink bei der Synthese von hochmolekularer Polymilchsäure zu weniger Verunreinigungen führt, was zu der reinsten Polymilchsäure führt.
-    Zum Beispiel hat Zinn(II)-di-2-ethylhexanoat eine hohe katalytische Aktivität und geringe Toxizität.
-    Es wurde von der FDA zugelassen und ist ein äußerst geeigneter Induktor.
-    Neben Zinnverbindungen sind Aluminiumalkoxide und Seltenerdverbindungen andere Katalysatorsysteme, die über Koordinations-/Insertionsmechanismen ablaufen.
-    Die Forschung ergab, dass die Polymerisationsrate von Seltenerdverbindungen immer noch viel höher ist als die von Aluminiumalkoxiden.
+    \begin{itemize}
+        \item Kationisch
+        \item Anionisch
+        \item Koordinations-/Insertionsmechanismus
+    \end{itemize}
 
-    Darüber hinaus ist laut Forschung die enzymatische Polymerisation umweltfreundlicher als chemische Synthesemethoden.
-    Enzymatische Reaktionen erfordern ein mildes Umfeld, und Enzyme sind effizient, kostengünstig und hochspezifisch.
-    Chemische Reaktionen erfordern ein einzelnes Reaktant, um Nebenreaktionen zu vermeiden.
-    Es sind jedoch nicht viele Referenzen für diese Methode verfügbar [47].
+    Kationische Initiatoren sind protische Säuren, Lewis-Säuren und alkylierende bzw. acylierende Reagenzien.
+    Es wurde festgestellt, dass Triflsäure und Methyltriflat Lactid effektiv induzieren können.
 
-
-    ---
-    Die Esterbindungen des Polymerrückgrats werden durch Hydrolyse ohne zusätzliche Operationen gespalten, und die Abbauprodukte sind ungiftig und vermeiden einen Teil der Immunantwort, was es zu einem idealen Kandidaten für biomedizinische Anwendungen macht.
-
-    ---
+    Anionische Initiatoren dagegen führen zu inkosistenten Polymerisationen und Racemisierung durch Deprotonierung.
+    Es wird davon abgeraten, Butyllithium oder Kronenether-Initiatoren zu verwenden, da diese Metallionen enthalten, die zu Toxizitätsproblemen führen können.
+    Besser geeignet sind primäre Alkoxide, 6-Valerolacton oder Polyethylenglykol.
+    Beide dieser Methoden führen zu geringer Verunreinigung.
+    Verwendet man Zinn (II) und Zink während der Synthese, erhälte man die reinste Polymilchsäure, z.B. Zinn (II)-di-2-ethylhexanoat.
+    Zinnverbindungen, Aluminiumalkoxide, Seltenerdverbindungen laufen alle über Koordinations-/Insertionsmechanismen ab.
 
 
     \section{FDM-Druck}
