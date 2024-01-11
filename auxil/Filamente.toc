@@ -1,0 +1,12 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Filamentherstellung}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Farben und Formen}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Produktion}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Recycling}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Kunststoffe und ihre Eigenschaften}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Filamente}{7}{subsection.2.1}%
+\contentsline {section}{\numberline {3}PLA}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Milchsäure}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Polymilchsäure}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Kondensationspolymerisation}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Ringöffnungspolymerisation}{10}{subsection.3.4}%
