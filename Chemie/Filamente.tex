@@ -4,6 +4,7 @@
 % Preamble
 %\documentclass[10pt,twocolumn,letterpaper]{article}
 \documentclass[10pt]{article}
+\setlength{\parindent}{0em}
 
 \usepackage{color}
 
@@ -20,27 +21,33 @@
 \usepackage{subcaption}
 \usepackage{amssymb}
 \usepackage{eurosym}
-\usepackage{subcaption}
+\usepackage[ngerman]{babel}
+\usepackage{titlesec}
+\usepackage{parskip}
 
 \title{Filamente und mehr}
 \author{Oliver Schütz}
 
+
+
+
 \begin{document}
 
     \maketitle
+    \tableofcontents
 
+    \newpage
     \begin{abstract}
-        \textit
-        {Der 3D-Druck ist ein Herstellungsverfahren, das es erlaubt, aus verschiedensten Materialien jegliche Formen herzustellen.
-        Mit herkömmlichen Verfahren ist dies nicht möglich.
-        Jedoch braucht es dafür spezielle Materialien, die entsprechende Eigenschaften aufweisen.
-        Hier beschränken wir uns auf Materialien, die mit dem FDM-Verfahren verarbeitet werden können, genauer gesagt auf Filamente.}
-        FDM steht für Fused Deposition Modeling, was auf Deutsch etwa Schmelzschichtung bedeutet und ist das am weitesten verbreitete 3D-Druckverfahren.
-        Dabei wird ein Kunststoffdraht, das sogenannte Filament, durch eine Düse gepresst und auf einer Druckplatte Schicht für Schicht aufgetragen, woraus das Druckobjekt entsteht.
+\textit{Der 3D-Druck ist ein Herstellungsverfahren, das es erlaubt, aus verschiedensten Materialien jegliche Formen herzustellen.
+Mit herkömmlichen Verfahren ist dies nicht möglich.
+Jedoch braucht es dafür spezielle Materialien, die entsprechende Eigenschaften aufweisen.
+Hier beschränken wir uns auf Materialien, die mit dem FDM-Verfahren verarbeitet werden können, genauer gesagt auf Filamente.
+FDM steht für Fused Deposition Modeling, was auf Deutsch etwa Schmelzschichtung bedeutet und ist das am weitesten verbreitete 3D-Druckverfahren.
+Dabei wird ein Kunststoffdraht, das sogenannte Filament, durch eine Düse gepresst und auf einer Druckplatte Schicht für Schicht aufgetragen, woraus das Druckobjekt entsteht.
+}
     \end{abstract}
 
-
-    \section{Materialien}
+    \section{Filamentherstellung}
     Es gibt verschiedene Arten von Materialien, die sich in Farbe, Form und Material unterscheiden.
 
     \subsection{Farben und Formen}
@@ -58,7 +65,7 @@
         \caption*{Beispiel für Pellets oder Granulat als Ausgangsmaterial für Filamente}
     \end{figure}
 
-    \subsection{Filamentherstellung}
+    \subsection{Produktion}
     Im ersten Schritt vermischt man die Pellets mit Farbstoffen oder anderen Materialien, um die gewünschte Farbe zu erhalten oder die Eigenschaften des Materials zu verändern.
     Beispiele für das Beimischen von anderen Materialien sind Kohlefasern, um das Filament stabiler zu machen, TPU um es flexibler zu machen oder Holzfasern, um es wie Holz aussehen zu lassen.
     Bei teureren Filamenten wird das Gemisch anschließend noch getrocknet, um die Feuchtigkeit zu entfernen.
@@ -67,11 +74,8 @@
     \begin{figure}[H]
         \centering
         \includegraphics[width=10cm]{img/wet_filament}
-        % Zwei captions nebeneinander
         \caption*{Links: Filament mit Feuchtigkeit; Rechts: Getrocknetes Filament}
     \end{figure}
-
-
 
     Anschließend wird das Gemisch in einem Extruder zu Filament verarbeitet.
     Durch einen Trichter gelangt das Granulat / Pellets in eine Extrusionseinheit.
@@ -140,7 +144,7 @@
 
 
     \newpage
-    \subsection{Kunststoffe und ihre Eigenschaften}
+    \section{Kunststoffe und ihre Eigenschaften}
     Wie bereits erwähnt, kann man so gut wie alle Kunststoffe zum 3D-Druck verwenden.
     Damit ein Kunststoff jedoch für den FDM-Druck geeignet ist, müssen bestimmte Dinge beachtet werden.
 
@@ -168,7 +172,7 @@
     \end{figure}
 
     \newpage
-    \subsection{Filamentarten}
+    \subsection{Filamente}
     Zu den gängigsten Filamentarten gehören PLA, PETG, ABS / ASA, TPU, Nylon und PC.
     PLA ist das am weitesten verbreitete Filament, das aus Mais hergestellt wird und biologisch abbaubar ist.
     Es ist einfach zu drucken, da es eine geringe Schmelztemperatur hat und kann daher sehr schnell gedruckt werden, es ist auch nicht abrasiv und muss auch nicht in einem beheizten Druckraum gedruckt werden.
@@ -214,7 +218,7 @@
 
     \newpage
 
-    \subsection{Introduction}
+    \section{PLA}
     PLA bzw. Polymilchsäure ist ein Biopolymer, das aus erneuerbaren Ressourcen wie Weizen, Stroh, Mais und Hirse gewonnen wird.
     Es ist umweltfreundlich, da es von Mikroben zu Wasser und Kohlendioxid abgebaut werden kann.
     Zudem liegt die Verarbeitungstemperatur zwischen 170 und 230°C, wodurch es für Extrusions-, Spinn-, biaxiale Streck- und Spritzblasformverfahren geeignet ist.
@@ -231,7 +235,7 @@
 
     \begin{figure}[H]
         \centering
-        \subfloat[\centering L-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]CH_{3})-[:30](=[2]O)(-[:-30]OH)}}%
+        \subfloat[\centering L-lactic acid]{\chemfig{[:-30]HO-(<[:210]H)(<:[:-40]CH_{3})-[:30](=[2]O)(-[:-30]OH)}}%
         \qquad
         \subfloat[\centering D-lactic acid]{\chemfig{[:-30]HO-(<[:210]H_{3}C)(<:[:-40]H)-[:30](=[2]O)(-[:-30]OH)}}%
     \end{figure}
@@ -252,7 +256,7 @@
     Das erste synthetisierte PLA war PLLA, das aus L-Milchsäure hergestellt wurde.
     Es wurde jedoch festgestellt, dass PLLA aufgrund seiner hohen Kristallinität und langsamen Abbaurate eine Entzündungsreaktion im Körper auslösen kann.
     Die zweite Form PDLA dagegen, wird schneller abgebaut.
-    Verwendet man nun die Dritte Form PDLLA, so kann man diese Probleme vermeiden und dennoch die Vorteile von PLLA nutzen.
+    Verwendet man nun die dritte Form PDLLA, so kann man diese Probleme vermeiden und dennoch die Vorteile von PLLA nutzen.
     Z.B. ist PLLA stabiler als PDLA. \\ \\
     Nun gibt es drei Methoden, PLA mit einem Molekulargewicht größer als 10.000 g/mol herzustellen:
     \begin{enumerate}
@@ -263,12 +267,12 @@
 
     \begin{figure}[H]
         \centering
-        \includegraphics[width=10cm]{img/Polymerisation}
+        \includegraphics[width=10cm]{img/PLA_synthese}
         \caption*{Polymerisation von Milchsäure zu Polymilchsäure}
     \end{figure}
 
     \subsection{Kondensationspolymerisation}
-    Durch die Kondensationspolymerisation kann leicht und günstig niedermoelkulares PLA hergestellt werden.
+    Durch die Kondensationspolymerisation kann leicht und günstig niedermolekulares PLA hergestellt werden.
     Dies geschieht durch die Kondensation von Hydroxyl- und Carboxylgruppen in äquimolaren Konzentrationen.
     Im zweiten Schritt werden Kupplungsmittel und Veresterungsadjuvantien hinzugefügt, die die PLA modifizieren und die Kette verstärken.
     Dieser Schritt ist deutlich kostenintensiver, als der Erste.
@@ -301,11 +305,14 @@
     Beide dieser Methoden führen zu geringer Verunreinigung.
     Verwendet man Zinn (II) und Zink während der Synthese, erhälte man die reinste Polymilchsäure, z.B. Zinn (II)-di-2-ethylhexanoat.
     Zinnverbindungen, Aluminiumalkoxide, Seltenerdverbindungen laufen alle über Koordinations-/Insertionsmechanismen ab.
+<<<<<<< HEAD
 
     \section{FDM-Druck}
     Wie man mit Filamenten druckt.
 
 
+=======
+>>>>>>> origin/main
 \end{document}
 
 
