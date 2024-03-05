@@ -1,0 +1,75 @@
+PWD /home/oli/TGI13/Religion
+INPUT /usr/share/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/oli/TGI13/Religion/KI und Religion.tex
+OUTPUT KI und Religion.log
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./KI und Religion.aux
+INPUT KI und Religion.aux
+INPUT KI und Religion.aux
+OUTPUT KI und Religion.aux
+INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./KI und Religion.bbl
+INPUT KI und Religion.bbl
+INPUT ./KI und Religion.bbl
+INPUT KI und Religion.bbl
+OUTPUT KI und Religion.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT KI und Religion.aux
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb
