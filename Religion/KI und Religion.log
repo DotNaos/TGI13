@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  17 MAR 2024 21:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  17 MAR 2024 21:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -71,12 +71,12 @@ Overfull \hbox (7.9033pt too wide) in paragraph at lines 42--48
  []
 
 [2]
-Overfull \hbox (6.22159pt too wide) in paragraph at lines 83--84
+Overfull \hbox (6.22159pt too wide) in paragraph at lines 81--82
 \OT1/cmr/m/n/10 Die Idee, dass die Men-schen ir-gend-wann eine hoch en-twick-elte KI als gott^^?ahnliches
  []
 
 
-Overfull \hbox (52.08406pt too wide) in paragraph at lines 83--84
+Overfull \hbox (52.08406pt too wide) in paragraph at lines 81--82
 \OT1/cmr/m/n/10 haben viele der heuti-gen Re-li-gio-nen ihren Ur-sprung in der Verehrung von Naturph^^?anomenen,
  []
 
@@ -92,15 +92,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 522 strings out of 476076
- 10064 string characters out of 5793328
+ 524 strings out of 476076
+ 10087 string characters out of 5793328
  1934190 words of memory out of 5000000
- 22686 multiletter control sequences out of 15000+600000
+ 22688 multiletter control sequences out of 15000+600000
  562969 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  35i,7n,50p,532b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "KI und Religion.pdf" (4 pages, 111833 bytes).
+Output written on "KI und Religion.pdf" (4 pages, 109846 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
