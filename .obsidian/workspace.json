@@ -11,8 +11,12 @@
             "id": "c1181d8300a1f524",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -156,17 +164,19 @@
   },
   "active": "c1181d8300a1f524",
   "lastOpenFiles": [
+    "Ketcher/Ketcher 3-5-2024 08.03.05.ket",
+    "conflict-files-obsidian-git.md",
+    "Ketcher",
+    "auxil/Filamente.toc",
+    "auxil",
+    "English/Analyse.pdf",
+    "English/Analyse.md",
+    "Chemie/img/PLA_synthese.jpg",
     "out/Laborjournal.synctex(busy)",
     "Chemie/Laborjournal.tex~",
     "Chemie/Laborjournal.tex",
     "out/Laborjournal.synctex.gz",
     "out/Laborjournal.pdf",
-    "out/Laborjournal.tex~",
-    "out/Laborjournal.bbl",
-    "out/Laborjournal.blg",
-    "out/Laborjournal.tex",
-    "out/Laborjournal.aux",
-    "out/Laborjournal.log",
     "Chemie/Laborjournal.md",
     "Chemie/Fette.md",
     "Informatik/Man-in-the-middle.md",
