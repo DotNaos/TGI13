@@ -1,0 +1,3 @@
+# [Could God be an artificial intelligence that was originally created by a living thing and has grown in intelligence over vast time? - Quora](https://www.quora.com/Could-God-be-an-artificial-intelligence-that-was-originally-created-by-a-living-thing-and-has-grown-in-intelligence-over-vast-time)
+
+Could God be an artificial intelligence that was originally created by a living thing and has grown in intelligence over vast time? - Quora Something went wrong. Wait a moment and try again.Try again Please enable Javascript and refresh the page to continue

@@ -1,0 +1,3 @@
+# [Künstliche Intelligenz - Das sprechende Bild, totale Überwachung oder das Ende der Menschheit? - YouTube](https://www.youtube.com/watch?v=_Zyh7WD68NY)
+
+Künstliche Intelligenz - Das sprechende Bild, totale Überwachung oder das Ende der Menschheit? - YouTubeInfoPresseUrheberrechtKontaktCreatorWerbenEntwicklerImpressumVerträge hier kündigenNutzungsbedingungenDatenschutzRichtlinien & SicherheitWie funktioniert YouTube?Neue Funktionen testen© 2024 Google LLC

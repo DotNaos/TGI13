@@ -1,0 +1,3 @@
+# [@kloskers.bsky.social on Bluesky](https://staging.bsky.app/profile/kloskers.bsky.social)
+
+@kloskers.bsky.social on Bluesky JavaScript Required This is a heavily interactive web application, and JavaScript is required. Simple HTML interfaces are possible, but that is not what this is. Learn more about Bluesky at bsky.social and atproto.com. Profile Kloskers kloskers.bsky.social did:plc:zkl3uirdfbip2iqctkz4dtuy E/K Realschule, #bayernedu, #medienpaedagogik, #mebis

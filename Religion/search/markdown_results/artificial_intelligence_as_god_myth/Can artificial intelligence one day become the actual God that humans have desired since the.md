@@ -1,0 +1,3 @@
+# [Can artificial intelligence one day become the actual God that humans have desired since the beginning of human existence? - Quora](https://www.quora.com/Can-artificial-intelligence-one-day-become-the-actual-God-that-humans-have-desired-since-the-beginning-of-human-existence)
+
+Can artificial intelligence one day become the actual God that humans have desired since the beginning of human existence? - Quora Something went wrong. Wait a moment and try again.Try again Please enable Javascript and refresh the page to continue

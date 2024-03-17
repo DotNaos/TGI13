@@ -1,9 +1,11 @@
 \begin{thebibliography}{1}
 
-\bibitem{Kurzweil}
-Kurzweil: The singularity is near.
-
 \bibitem{BR}
-Künstliche intelligenz: Eine neue religion in der entstehung.
+BR.
+\newblock \\https://www.br.de/nachrichten/netzwelt/kuenstliche-intelligenz-eine-neue-religion-in-der-entstehung,ttienr1.
+
+\bibitem{Kurzweil}
+Ray Kurzweil.
+\newblock \\https://lifearchitect.ai/kurzweil/.
 
 \end{thebibliography}

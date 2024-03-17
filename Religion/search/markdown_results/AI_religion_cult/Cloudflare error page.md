@@ -1,0 +1,3 @@
+# [Cloudflare error page](https://www.timesofisrael.com/yuval-noah-harari-warns-ai-can-create-religious-texts-may-inspire-new-cults/)
+
+Cloudflare error page 72DA8EC2-A389-4E9D-8DBA-07CB23FC1407 DB801F57-8229-47BD-A2AA-4F121067695C Sorry, you have been blocked You are unable to access The Times of Israel. If you’re using a VPN, please turn it off and try again. If this problem persists, please email us at support AT timesofisrael.com Be sure to include in your email the following details: Your IP 2001:9e8:a2e4:d600:a99e:f9d8:449c:3f47 Cloudflare Ray ID: 865e9657aefe9107 The URL of the page where you see this message Copy these details

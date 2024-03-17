@@ -1,42 +1,40 @@
-This is BibTeX, Version 0.99d (TeX Live 2023/Arch Linux)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: KI und Religion.aux
 The style file: plain.bst
 Database file #1: sources.bib
 Warning--entry type for "BR" isn't style-file defined
---line 3 of file sources.bib
+--line 5 of file sources.bib
 Warning--entry type for "Kurzweil" isn't style-file defined
---line 8 of file sources.bib
-Warning--to sort, need author or key in BR
-Warning--to sort, need author or key in Kurzweil
+--line 15 of file sources.bib
 You've used 2 entries,
             2118 wiz_defined-function locations,
-            503 strings with 4124 characters,
-and the built_in function-call counts, 316 in all, are:
-= -- 24
-> -- 2
+            504 strings with 4187 characters,
+and the built_in function-call counts, 406 in all, are:
+= -- 32
+> -- 14
 < -- 0
-+ -- 2
-- -- 0
++ -- 6
+- -- 4
 * -- 12
-:= -- 37
-add.period$ -- 2
+:= -- 71
+add.period$ -- 4
 call.type$ -- 2
-change.case$ -- 6
+change.case$ -- 8
 chr.to.int$ -- 0
-cite$ -- 4
+cite$ -- 2
 duplicate$ -- 14
-empty$ -- 47
-format.name$ -- 0
-if$ -- 75
+empty$ -- 45
+format.name$ -- 4
+if$ -- 85
 int.to.chr$ -- 0
 int.to.str$ -- 2
 missing$ -- 0
-newline$ -- 9
-num.names$ -- 0
+newline$ -- 11
+num.names$ -- 4
 pop$ -- 16
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 6
 quote$ -- 0
 skip$ -- 20
 stack$ -- 0
@@ -46,8 +44,8 @@ text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 8
-warning$ -- 2
-while$ -- 0
+warning$ -- 0
+while$ -- 4
 width$ -- 3
-write$ -- 12
-(There were 4 warnings)
+write$ -- 16
+(There were 2 warnings)

@@ -1,0 +1,3 @@
+# [Is developing artificial intelligence playing God? Isn’t there an ethical dilemma in making machines increasingly more human-like, mimicking human self-awareness without giving it full human rights? - Quora](https://www.quora.com/Is-developing-artificial-intelligence-playing-God-Isn%E2%80%99t-there-an-ethical-dilemma-in-making-machines-increasingly-more-human-like-mimicking-human-self-awareness-without-giving-it-full-human-rights)
+
+Is developing artificial intelligence playing God? Isn’t there an ethical dilemma in making machines increasingly more human-like, mimicking human self-awareness without giving it full human rights? - Quora Something went wrong. Wait a moment and try again.Try again Please enable Javascript and refresh the page to continue

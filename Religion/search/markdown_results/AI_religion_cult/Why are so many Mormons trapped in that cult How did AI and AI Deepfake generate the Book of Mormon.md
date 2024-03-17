@@ -1,0 +1,3 @@
+# [Why are so many Mormons trapped in that cult? How did AI and AI Deepfake generate the Book of Mormon with AI? - Quora](https://www.quora.com/Why-are-so-many-Mormons-trapped-in-that-cult-How-did-AI-and-AI-Deepfake-generate-the-Book-of-Mormon-with-AI)
+
+Why are so many Mormons trapped in that cult? How did AI and AI Deepfake generate the Book of Mormon with AI? - Quora Something went wrong. Wait a moment and try again.Try again Please enable Javascript and refresh the page to continue

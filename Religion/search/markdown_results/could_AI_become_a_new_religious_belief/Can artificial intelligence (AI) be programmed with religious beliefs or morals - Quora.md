@@ -1,0 +1,3 @@
+# [Can artificial intelligence (AI) be programmed with religious beliefs or morals? - Quora](https://www.quora.com/Can-artificial-intelligence-AI-be-programmed-with-religious-beliefs-or-morals)
+
+Can artificial intelligence (AI) be programmed with religious beliefs or morals? - Quora Something went wrong. Wait a moment and try again.Try again Please enable Javascript and refresh the page to continue
