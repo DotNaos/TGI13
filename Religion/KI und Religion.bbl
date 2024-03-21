@@ -12,8 +12,20 @@ Jesus Haus.
 Gott kennen.
 \newblock \\https://gottkennen.de/wer-ist-gott/.
 
+\bibitem{KurzweilBuch}
+Ray Kurzweil.
+\newblock \\https://archive.org/details/kurzweil-ray-the-singularity-is-near.
+
 \bibitem{Kurzweil}
 Ray Kurzweil.
 \newblock \\https://lifearchitect.ai/kurzweil/.
+
+\bibitem{Openai}
+Openai.
+\newblock \\https://openai.com/blog/introducing-superalignment.
+
+\bibitem{MDR}
+MDR Wissen.
+\newblock \\https://www.mdr.de/wissen/ki-hat-noch-kein-bewusstsein-100.html.
 
 \end{thebibliography}

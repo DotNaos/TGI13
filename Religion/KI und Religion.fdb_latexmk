@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex KI und Religion"] 1710708719.78198 "KI und Religion.aux" "KI und Religion.bbl" "KI und Religion" 1710708721.78155 0
-  "./sources.bib" 1710708399 753 17039cc3092bd1bc2dbfb92dee45126b ""
-  "KI und Religion.aux" 1710708721 1010 fd5262ce53bc7e3f0d32742120b3acb3 "pdflatex"
+["bibtex KI und Religion"] 1711050028.43636 "KI und Religion.aux" "KI und Religion.bbl" "KI und Religion" 1711050095.10305 0
+  "./sources.bib" 1711049985 1105 f864973be1bb037cc6f5b27125281761 ""
+  "KI und Religion.aux" 1711050095 919 69501ce33d83b12945362f900fdf85d3 "pdflatex"
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1710111006 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   (generated)
   "KI und Religion.bbl"
   "KI und Religion.blg"
   (rewritten before read)
-["pdflatex"] 1710708721.5678 "c:/Users/schue/TGI13/Religion/KI und Religion.tex" "KI und Religion.pdf" "KI und Religion" 1710708721.78203 0
-  "KI und Religion.aux" 1710708721 1010 fd5262ce53bc7e3f0d32742120b3acb3 "pdflatex"
-  "KI und Religion.bbl" 1710708719 456 f103dbaa484376cff628b0a0f839f0b8 "bibtex KI und Religion"
-  "KI und Religion.tex" 1710708720 6499 a92ecaa324132ecaa1edae72dbbd2c31 ""
-  "KI und Religion.toc" 1710708721 494 ffa4d530d38af59f1bc625c0c02d2ff5 "pdflatex"
-  "c:/Users/schue/TGI13/Religion/KI und Religion.tex" 1710708720 6499 a92ecaa324132ecaa1edae72dbbd2c31 ""
+["pdflatex"] 1711050094.85446 "c:/Users/schue/TGI13/Religion/KI und Religion.tex" "KI und Religion.pdf" "KI und Religion" 1711050095.10366 0
+  "KI und Religion.aux" 1711050095 919 69501ce33d83b12945362f900fdf85d3 "pdflatex"
+  "KI und Religion.bbl" 1711050028 766 722f3f748f17358cbad3185429cddfce "bibtex KI und Religion"
+  "KI und Religion.tex" 1711050094 8885 2bf1e459c00c7107fa5fb67ffce1a62e ""
+  "KI und Religion.toc" 1711050095 351 a4583ac1ff84fb2c3fac5a938c0b00fd "pdflatex"
+  "c:/Users/schue/TGI13/Religion/KI und Religion.tex" 1711050094 8885 2bf1e459c00c7107fa5fb67ffce1a62e ""
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710111097 77129 b8b82bcd797e758760f6863ce4b89983 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1710111107 6812422 9d43d2ac11d6eac877ad429c98ac4016 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1710111011 1328 c834bbb027764024c09d3d2bf908b5f0 ""
