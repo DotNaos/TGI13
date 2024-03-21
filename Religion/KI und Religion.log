@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  21 MAR 2024 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.10)  21 MAR 2024 20:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -60,19 +60,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.61626pt too wide) in paragraph at lines 36--38
-[]\OT1/cmr/m/n/10 Aber auch im Gottes-di-enst findet die Tech-nolo-gie Einzug. Eine Rede geschrieben
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (5.46364pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 Ans^^?atze und Def-i-ni-tio-nen, aber keine davon ist wirk-lich all-ge-me-ing^^?ultig. Vielmehr
  []
 
-[2] [3]
-Overfull \hbox (6.22159pt too wide) in paragraph at lines 97--99
-\OT1/cmr/m/n/10 Die Idee, dass die Men-schen ir-gend-wann eine hoch en-twick-elte KI als gott^^?ahnliches
- []
-
-
-Overfull \hbox (23.47289pt too wide) in paragraph at lines 97--99
-\OT1/cmr/m/n/10 viele der heuti-gen Re-li-gio-nen ihren Ur-sprung in der Verehrung von Naturph^^?anomenen,
+[3]
+Overfull \hbox (1.77841pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 viele heutige Re-li-gio-nen ihren Ur-sprung in der Verehrung von Naturph^^?anomenen,
  []
 
 [4] (./KI und Religion.bbl
@@ -93,9 +88,9 @@ Here is how much of TeX's memory you used:
  22690 multiletter control sequences out of 15000+600000
  562969 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 35i,7n,50p,414b,203s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,7n,50p,1181b,203s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on "KI und Religion.pdf" (5 pages, 111361 bytes).
+Output written on "KI und Religion.pdf" (5 pages, 111467 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
