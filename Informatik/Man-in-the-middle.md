@@ -19,7 +19,7 @@ Durch Manipulation von Border Gateway Protocol (BGP) Announcements lenkt der Ang
 Mithilfe von Schwachstellen im Signalling System 7 können sich Angreifer in die mobile Kommunikation einklinken und Anrufe, SMS etc. mitlesen oder manipulieren.
 ### Beispiel: Öffentliches Wifi (Bodenseekreis)
 Zuerst verbindet sich der Angreifer mit einem Netzwerk, in dem sich das Opfer befindet. Dannach sucht er die IP-Adresse des Opfers im Netzwerk. Hier werden alle IPs Angezeigt.
-![Pasted image 20231124141339.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231124141339.png)
+![Pasted image 20231124141339.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231124141339.png?raw=true)
 
 $$Das \ hier \ ist \ ein \ Latex \ test = 2x \cdot \frac{3x}{4x}$$
 
@@ -27,10 +27,10 @@ Für den Angriff, müssen wir sowohl das Opfer als auch den Router täuschen, in
 
 Die Informationen zum Router lassen wir uns hier ausgeben:
 
-![Pasted image 20231124142122.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231124142122.png)
+![Pasted image 20231124142122.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231124142122.png?raw=true)
 
 Jetzt können wir unser Opfer als target des ARP-Spoof setzen und die Datenanfragen mitlesen. Wir sind damit der Man-in-the-middle.
-![Pasted image 20231126210112.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231126210112.png)
+![Pasted image 20231126210112.png](https://github.com/DotNaos/TGI13/blob/bc0ef581b3efd7cf865041ac598e4d11281a4771/Informatik/Images/Pasted%20image%2020231126210112.png?raw=true)
 
 Hier sehen wir, dass das Opfer an
 https://m.youtube.com
